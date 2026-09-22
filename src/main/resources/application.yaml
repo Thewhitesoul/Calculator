@@ -13,3 +13,10 @@ themes:
     numbersBackground: 363c47
     btnEqualTextColor: ffffff
     btnEqualBackground: 4cc2ff
+  - name: Pink
+    applicationBackground: fff0f6
+    textColor: 4a1730
+    operatorBackground: f8c8dc
+    numbersBackground: ffe4ef
+    btnEqualTextColor: ffffff
+    btnEqualBackground: c2185b
